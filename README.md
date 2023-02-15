@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh (@jjanyan)
-- 👀 I’m interested in software, business, and finance.
-- 🌱 I’m currently learning Go, Typescript, Japanese, and more.
+- 👀 I’m interested in software, finance, marketing, and operations.
+- 🌱 I’m currently learning Typescript.
 - 📫 How to reach me http://joshanyan.com/
 
 <!---
